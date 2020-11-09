@@ -10,3 +10,4 @@
 
 
 <img src="https://render.githubusercontent.com/render/math?math=\HUGE \frac{1}{\varepsilon} = \sqrt{\frac{1}{(I \cdot R)^2}}">
+<img src=https://render.githubusercontent.com/render/math?math=%5Chuge%20e%5E%7Bi%5Cpi%7D%20%3D%20-1">
