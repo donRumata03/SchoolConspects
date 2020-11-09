@@ -4,3 +4,5 @@
 `$x^2$` or `$$x^2$$`
 
 \\( a^2 = b^2 \\)
+
+<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
