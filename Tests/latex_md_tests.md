@@ -9,4 +9,4 @@
 
 
 
-<img src="https://render.githubusercontent.com/render/math?math=\frac{1}{\varepsilon} = \sqrt{\frac{1}{(I \cdot R)^2}}">
+<img src="https://render.githubusercontent.com/render/math?math=\HUGE \frac{1}{\varepsilon} = \sqrt{\frac{1}{(I \cdot R)^2}}">
