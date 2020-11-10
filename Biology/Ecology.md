@@ -20,3 +20,5 @@
 Существуют зона оптимума и зона пессимума
 
 <img src="eco_res/temp_dependence.png"></img>
+
+<img src="eco_res/evro_and_steno_biots.png"></img>
