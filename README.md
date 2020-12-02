@@ -6,3 +6,4 @@ The avialable subjects at the moment are:
 - Biology
 - Programming
 - History
+- Physics
