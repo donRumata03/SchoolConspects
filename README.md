@@ -7,3 +7,5 @@ The avialable subjects at the moment are:
 - Programming
 - History
 - Physics
+- Chemistry
+- Russian
