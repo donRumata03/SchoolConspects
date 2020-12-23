@@ -123,6 +123,7 @@ ______________________________________________
 <img src="eco_res/Symbios.png"></img>
 <img src="eco_res/Symbios1.png"></img>
 <img src="eco_res/Symbios2.png"></img>
+
 #### Теория симбмогенеза — теория происхождения эукариотной клетки
 Общепринято, что были некоторые бакткрии. В результате симбиоза некоторые типы были поглощены клеткой хозяином 
 (с ядром; способной к фагоцитизу) и стали метахондриями / пластидами.
@@ -142,11 +143,11 @@ ______________________________________________
 
   ###### Пирамиды, демонстрирующие это:
 
-  ![image-20201223104812002](D:\Projects\Conspects\Biology\eco_res\pyramid.png)
+  ![image-20201223104812002](eco_res/pyramid.png)
 
 
 
-​								<img src="D:\Projects\Conspects\Biology\eco_res\trafic_demonstration.png" alt="image-20201223104955029" style="zoom: 33%;" /> <img src="D:\Projects\Conspects\Biology\eco_res\eating_sequence.png" alt="image-20201223105301243" style="zoom:33%;" />
+​								<img src="eco_res/trafic_demonstration.png" alt="image-20201223104955029" style="zoom: 33%;" /> <img src="eco_res/eating_sequence.png" alt="image-20201223105301243" style="zoom:33%;" />
 
 *Консументы какого порядка люди? 4.5-го?*
 
@@ -156,7 +157,7 @@ ______________________________________________
 
 Искусственная: только одна культура, «монокультура», та, которая требуется
 
-<img src="C:\Users\Vova\AppData\Roaming\Typora\typora-user-images\image-20201223105941114.png" alt="image-20201223105941114" style="zoom:33%;" />![image-20201223110149487](C:\Users\Vova\AppData\Roaming\Typora\typora-user-images\image-20201223110149487.png)<img src="C:\Users\Vova\AppData\Roaming\Typora\typora-user-images\image-20201223105941114.png" alt="image-20201223105941114" style="zoom:33%;" />![image-20201223110149487](C:\Users\Vova\AppData\Roaming\Typora\typora-user-images\image-20201223110149487.png)
+<img src="eco_res/field_reallife_vs_human.png" alt="image-20201223105941114" style="zoom:33%;" /><img src="eco_res/lake_reallife_vs_human.png" alt="image-20201223110149487" style="zoom:33%;" />
 
 Из-за несовершенства системы аквариума, например, приходится время от времени продувать и чистить аквариум (в отличие от естественной системы)
 
@@ -182,4 +183,4 @@ ____
 
 Сукцессия — либо образование биоценоза там, где его не было вообще (первичная сукцессия), либо (что чаще) естественная замена одной системы другой.
 
-![image-20201223111830675](D:\Projects\Conspects\Biology\eco_res\succession.png)
+![image-20201223111830675](eco_res/succession.png)
