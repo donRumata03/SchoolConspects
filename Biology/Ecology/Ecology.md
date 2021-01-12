@@ -240,3 +240,26 @@ ____
 Сукцессия — либо образование биоценоза там, где его не было вообще (первичная сукцессия), либо (что чаще) естественная замена одной системы другой.
 
 ![image-20201223111830675](eco_res/succession.png)
+
+В конце 19го — начале 20-го веков было извержение вулкана с невиданной силой. Остров был уничтожен, потом восстал из мёртвых. Флора и фауна были уничтожены. Туда приехали учёные и стали измерять динамику видового разнообразия на острове в течение 50и лет.  «Насекомые и птички» довольно быстро пришли туда, а другие твари — дрожащие — сильно позже. Начало заселения — не с высших растений, а с тех, кто может почву создать, маленьких.
+
+Амосова Людмила Ивановна имела честь лицезреть первичную сукцессию рядом с домом. [см. Сайт АУ](https://spbau.ru/ob-universitete/kafedryi/kafedra-nanobiotexnologij/pps/amosova-lyudmila-ivanovna). Там, где было безжизненное пространство, потом лишайники, те, кто может создать почву, в итоге стал расти лес.
+
+#### Вторичная сукцессия
+
+<img src="D:\Projects\Conspects\Biology\Ecology\eco_res\secondary_succession.png" alt="image-20210112111614871" style="zoom:50%;" /> Зарастание вырубок или гарей
+
+***Вторичная сукцессия*** — закономерная замена одного биоценоза другим.
+
+1. <img src="D:\Projects\Conspects\Biology\Ecology\eco_res\ivan-chai.png" alt="image-20210112111750685" style="zoom: 50%;" />Зарастание вырубок или гарей в наших широтах обычно начинается с ***иван-чая*** 
+2. <img src="D:\Projects\Conspects\Biology\Ecology\eco_res\malina.png" alt="image-20210112111857331" style="zoom:50%;" />
+
+3. <img src="D:\Projects\Conspects\Biology\Ecology\eco_res\little_trees.png" alt="image-20210112111926150" style="zoom:50%;" />
+
+4. <img src="D:\Projects\Conspects\Biology\Ecology\eco_res\little_forests.png" alt="image-20210112111956013" style="zoom:50%;" />
+
+5. <img src="D:\Projects\Conspects\Biology\Ecology\eco_res\little_forest.png" alt="image-20210112112018033" style="zoom:50%;" />
+
+6. <img src="D:\Projects\Conspects\Biology\Ecology\eco_res\big_tree_forest.png" alt="image-20210112112050712" style="zoom:50%;" />
+
+Так вырубка или гарево превращается в полноценный хвойный лес.
