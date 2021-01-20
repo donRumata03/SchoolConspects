@@ -1,0 +1,72 @@
+\documentclass[a4paper, 12pt, oneside]{scrartcl}
+%\documentclass[a4paper, 12pt, oneside]{ncc}
+\usepackage[T2A]{fontenc}            % внутренняя кодировка  TeX
+\usepackage[utf8x]{inputenc}         % кодовая страница документа
+\usepackage[english, russian]{babel} % локализация и переносы
+\usepackage{indentfirst}   % русский стиль: отступ первого абзаца раздела
+\usepackage{misccorr}      % точка в номерах заголовков
+\usepackage{cmap}          % русский поиск в pdf
+\usepackage{graphicx}      % Работа с графикой \includegraphics{}
+\usepackage{psfrag}        % Замена тагов на eps картинкаx
+\usepackage{caption2}      % Работа с подписями для фигур, таблиц и пр.
+\usepackage{soul}          % Разряженный текст \so{} и подчеркивание \ul{}
+\usepackage{soulutf8}      % Поддержка UTF8 в soul
+\usepackage{fancyhdr}      % Для работы с колонтитулами
+\usepackage{multirow}      % Аналог multicolumn для строк
+\usepackage{ltxtable}      % Микс tabularx и longtable
+\usepackage{paralist}      % Списки с отступом только в первой строчке
+%\usepackage{longtable}
+%\usepackage{tabularx}
+\usepackage[perpage]{footmisc} % Нумерация сносок на каждой странице с 1
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+% Задаем отступы: слева 30 мм, справа 10 мм, сверху до колонтитула 10 мм
+% снизу 25 мм
+%\usepackage[a4paper, top=10mm, left=30mm, right=10mm, bottom=25mm]{geometry}
+% Нумерация формул, картинок и таблиц по секциям
+\numberwithin{equation}{section}
+\numberwithin{table}{section}
+\numberwithin{figure}{section}
+
+\usepackage{wrapfig}
+\usepackage{multicol}
+\usepackage{xcolor}
+\usepackage{enumitem}
+\usepackage{etoolbox}
+%% Перенос знаков в формулах (по Львовскому)
+\newcommand*{\hm}[1]{#1\nobreak\discretionary{}
+	{\hbox{$\mathsurround=0pt #1$}}{}}
+\usepackage{hyperref}
+\hypersetup{				% Гиперссылки
+	unicode=true,           % русские буквы в раздела PDF
+	pdftitle={Заголовок},   % Заголовок
+	pdfauthor={Автор},      % Автор
+	pdfsubject={Тема},      % Тема
+	pdfcreator={Создатель}, % Создатель
+	pdfproducer={Производитель}, % Производитель
+	pdfkeywords={keyword1} {key2} {key3}, % Ключевые слова
+	colorlinks=true,       	% false: ссылки в рамках; true: цветные ссылки
+	linkcolor=black,          % внутренние ссылки
+	citecolor=green,        % на библиографию
+	filecolor=magenta,      % на файлы
+	urlcolor=blue           % на URL
+}
+%% Русские символы
+\renewcommand{\epsilon}{\ensuremath{\varepsilon}}
+\renewcommand{\phi}{\ensuremath{\varphi}}
+\renewcommand{\kappa}{\ensuremath{\varkappa}}
+\renewcommand{\le}{\ensuremath{\leqslant}}
+\renewcommand{\leq}{\ensuremath{\leqslant}}
+\renewcommand{\ge}{\ensuremath{\geqslant}}
+\renewcommand{\geq}{\ensuremath{\geqslant}}
+\renewcommand{\emptyset}{\varnothing}
+
+\usepackage{indentfirst}
+\usepackage{tikz} % Работа с графикой
+\usepackage{pgfplots}
+\usepackage{pgfplotstable}
+% % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % %
+\begin{document}
+Жёваный крот этого \TeX а
+\end{document}
