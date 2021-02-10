@@ -266,17 +266,17 @@ ____
 
 Так выглядит примерная последовательность:
 
-<img src="D:\Projects\Conspects\Biology\Ecology\eco_res\growing_sequence.png" alt="image-20210112122916847" style="zoom:50%;" />
+<img src="eco_res\growing_sequence.png" alt="image-20210112122916847" style="zoom:50%;" />
 
 <img src="D:\Projects\Conspects\Biology\Ecology\eco_res\secondary_succession_scheme.png" alt="image-20210112123457186"  />
 
 Только для небольших водоёмов, поэтому в садово-парковом хозяйстве их чистят:
 
-![image-20210112123556306](D:\Projects\Conspects\Biology\Ecology\eco_res\lake_succession.png)
+![image-20210112123556306](eco_res\lake_succession.png)
 
 Пример зарастания из реальной жизни:
 
-![image-20210112124446435](D:\Projects\Conspects\Biology\Ecology\eco_res\lake_degrading_photo.png)
+![image-20210112124446435](eco_res\lake_degrading_photo.png)
 
 Важно возвращать в окружающую среду биогенные элементы ($C, H, O, N, P, S$) — иначе экосистема буден неустойчивой. Они могут истощаться, поэтому нужны редуценты, превращающие органические вещества в неорганические. Чем более полно будут происходить, тем более устойчив биоценоз, в противном случае начинаются всякие процессы, которые приводят к сукцессии.
 
@@ -284,7 +284,7 @@ ____
 
 — это живая оболочка земли. Та часть поверхности планеты, на которой есть жизнь. Термин был предложен неким Василием Ивановичем. Вернадским, оказывается.
 
-![image-20210112130206174](D:\Projects\Conspects\Biology\Ecology\eco_res\biosphere_borders.png)
+![image-20210112130206174](eco_res\biosphere_borders.png)
 
 Выше озонового слоя организмы жить не могут, так как:
 
@@ -298,7 +298,7 @@ ____
 
 #### Глобальный круговорот углерода
 
-![image-20210129132043425](D:\Projects\Conspects\Biology\Ecology\eco_res\C_cycle.png)
+![image-20210129132043425](eco_res\C_cycle.png)
 
 Фотосинтез $\Leftrightarrow$ дыхание
 
@@ -322,12 +322,59 @@ ____
 
 Получается в основном из литосферы
 
-![image-20210129143314293](D:\Projects\Conspects\Biology\Ecology\eco_res\sulfur.png)
+![image-20210129143314293](eco_res\sulfur.png)
 
 ### Фосфор
 
-![image-20210129143921154](D:\Projects\Conspects\Biology\Ecology\eco_res\Зрщызрщк.png)
+![image-20210129143921154](eco_res\Зрщызрщк.png)
 
 Периоды разных круговототов:
 
-![image-20210129144052047](D:\Projects\Conspects\Biology\Ecology\eco_res\cycle_periods.png)
+![image-20210129144052047](eco_res\cycle_periods.png)
+
+## Человек и Биосфера
+
+![image-20210210131724635](eco_res\doubling_time.png)
+
+![image-20210210132045879](eco_res\population_growth.png)
+
+![image-20210210132119309](eco_res\irrational_resource_usage.png)
+
+![image-20210210132517562](eco_res\wilfire_consequences.png)
+
+![image-20210210132547400](eco_res\forest_area_decreasing.png)
+
+> Болота — лёгкие планеты!
+
+![image-20210210133043601](D:\Projects\Conspects\Biology\Ecology\eco_res\deforestation_speed.png)
+
+![image-20210210133108927](eco_res\soil_erosion.png)
+
+Монокультуры: 
+
+- Обедняют то место, где они находятся
+- Требуют затрат человеческой энергии
+
+![image-20210210133357466](eco_res\monocultures.png)
+
+![image-20210210133556869](eco_res\swamp_dehumidification.png)
+
+![image-20210210134717345](D:\Projects\Conspects\Biology\Ecology\eco_res\oil.png)
+
+![image-20210210134738539](D:\Projects\Conspects\Biology\Ecology\eco_res\plastic.png)
+
+![image-20210210135026289](D:\Projects\Conspects\Biology\Ecology\eco_res\dead_bird_plastic.png)
+
+![image-20210210140153056](eco_res\pestecides.png)
+
+![image-20210210140512458](eco_res\pestecides_problems.png)
+
+![image-20210210140906524](eco_res\radioactive.png)
+
+![image-20210210141346725](eco_res\readioactivity_map.png)
+
+## Некролог
+
+![image-20210210141525249](eco_res\necr_1.png)
+
+![image-20210210141550382](eco_res\necr_2.png)
