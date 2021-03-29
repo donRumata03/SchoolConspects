@@ -2,7 +2,7 @@
 
 ### Да хранит вас Господь!
 
-​									<img src="resources/zz_AeQ-Lo2w.png" alt="KMS" style="zoom:50%;" />                        <img src="resources/2oDIyp-8bmo.jpg" alt="2oDIyp-8bmo" style="zoom: 25%;" />
+​			<img src="resources/zz_AeQ-Lo2w.png" alt="KMS" style="zoom: 25%;" />          <img src="resources/2oDIyp-8bmo.jpg" alt="2oDIyp-8bmo" style="zoom: 25%;" />
 
 Итак, неудивительно, если читатель забыл всё, что было на химии за этот, а возможно — и за все предыдущие годы.
 
